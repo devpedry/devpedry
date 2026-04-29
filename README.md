@@ -30,13 +30,13 @@ I'm especially interested in **web development, process automation, and cybersec
 
 ## 📂 Featured Projects
 
-* **Text Analyzer**
-  JavaScript project for text processing and analysis
-  https://github.com/devpedry/TextAnalyzer
+* **Quiz Game Launcher**
+  Python game launcher with difficulty-based trivia access control using the Open Trivia DB API. 
+  https://github.com/devpedry/quiz-game-launcher
 
-* **LearnFlix**
-  Learning platform built with React
-  https://github.com/devpedry/LearnFlix
+* **InfnetFood**
+  Final React Native project featuring an order flow, shopping cart, checkout, simulated map, mocked authentication, and integration with a ZIP code API.
+  https://github.com/devpedry/InfnetFood
 
 * **Tsiolkovsky Calculator**
   Rocket equation calculator for educational purposes
@@ -50,7 +50,7 @@ I'm especially interested in **web development, process automation, and cybersec
 
 ##  Interests
 
-* Web development
+* BackEnd development
 * Process automation
 * Cybersecurity
 * Problem solving through technology
