@@ -1,71 +1,37 @@
-#  Hi, I'm Pedry
+# Hi, I'm Pedry 👋
 
-##  About Me
+Software Engineering student from Brazil, building practical software with a focus on **web development, mobile apps, automation, and cybersecurity**.
 
-I'm a **Quality Inspector** with hands-on experience in **technical documentation, process analysis, and quality standards**, currently studying **Software Engineering** and expanding my skills in software development.
+My background in quality inspection shaped how I work: I care about clear processes, attention to detail, and turning real-world problems into reliable solutions.
 
-My professional background gave me a strong analytical mindset, attention to detail, and a process-oriented way of solving problems — skills that I now apply in programming and automation projects.
+## What I work with
 
-I'm especially interested in **web development, process automation, and cybersecurity**, always looking for ways to connect technology with real-world improvements.
+- **Languages:** JavaScript, TypeScript, Python
+- **Frontend:** HTML, CSS, React
+- **Mobile:** React Native
+- **Interests:** backend development, automation, cybersecurity, and developer tools
 
----
+## Featured projects
 
-##  Skills
+| Project | What it is |
+| --- | --- |
+| [OpenClaude](https://github.com/devpedry/openclaude) | Open-source coding-agent CLI with support for multiple AI providers. |
+| [REA](https://github.com/devpedry/rea) | Agent-powered reverse engineering for applications and native binaries. |
+| [Ballistic Lab MVP](https://github.com/devpedry/ballistic-lab-mvp) | Map-based azimuth and distance calculator for tactical applications. |
+| [InfnetFood](https://github.com/devpedry/InfnetFood) | React Native ordering flow with cart, checkout, mocked auth, and API integration. |
+| [Quiz Game Launcher](https://github.com/devpedry/quiz-game-launcher) | Python game launcher with difficulty-based trivia access. |
+| [Tsiolkovsky Calculator](https://github.com/devpedry/Tsiolkovsky-Calculator) | Educational calculator based on the rocket equation. |
 
-### Main Technologies
+## Currently learning
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge\&logo=react\&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge\&logo=react\&logoColor=white)
+TypeScript, Python, backend architecture, and practical cybersecurity.
 
-### Currently Learning
+## Let's connect
 
-![TypeScript](https://img.shields.io/badge/TypeScript-Learning-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Learning-7A1FA2?style=for-the-badge\&logo=datadog\&logoColor=white)
-
----
-
-## 📂 Featured Projects
-
-* **Quiz Game Launcher**
-  Python game launcher with difficulty-based trivia access control using the Open Trivia DB API. 
-  https://github.com/devpedry/quiz-game-launcher
-
-* **InfnetFood**
-  Final React Native project featuring an order flow, shopping cart, checkout, simulated map, mocked authentication, and integration with a ZIP code API.
-  https://github.com/devpedry/InfnetFood
-
-* **Tsiolkovsky Calculator**
-  Rocket equation calculator for educational purposes
-  https://github.com/devpedry/Tsiolkovsky-Calculator
-
-* **Calculator**
-  Simple calculator built with JavaScript
-  https://github.com/devpedry/calculator.js
+- 🌐 [pedry.dev](https://pedry.dev)
+- 💼 [LinkedIn](https://www.linkedin.com/in/pedry)
+- 📫 Open an issue or start a discussion in one of my repositories
 
 ---
 
-##  Interests
-
-* BackEnd development
-* Process automation
-* Cybersecurity
-* Problem solving through technology
-* Continuous learning
-
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/pedry)
-
----
-
-## 📈 GitHub Stats
-
-[![Pedry's GitHub stats](https://github-readme-stats.vercel.app/api?username=devpedry)](https://github.com/devpedry/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devpedry\&layout=compact\&theme=tokyonight)
+*Always learning, building, and improving one project at a time.*
